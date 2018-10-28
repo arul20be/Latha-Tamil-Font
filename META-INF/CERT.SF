@@ -1,0 +1,43 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: +avpJ5f6cUsK1oBppBFvWPbjiMA=
+
+Name: system/fonts/NotoSansMalayalamUI-Regular.ttf
+SHA1-Digest-Manifest: 9rQ8emXxXFagk7gHwrrwXNpc4Uo=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: EGXT4HXGBJlOomYxiGXzoEMbMrY=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: .gitattributes
+SHA1-Digest-Manifest: VJvL32Kgn3r0mLHw8YEc77HAwV0=
+
+Name: system/fonts/NotoSansMalayalam-Regular.ttf
+SHA1-Digest-Manifest: IVsMXn/lGZRqG62+8sBJlLVBbsU=
+
+Name: README.md
+SHA1-Digest-Manifest: 9FA1rrx4quayH0gRlgj/lANuKuI=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: module.prop
+SHA1-Digest-Manifest: UsdZeb0FGxK8at6KIjo4VOZ0Euc=
+
+Name: system/fonts/NotoSansMalayalamUI-Bold.ttf
+SHA1-Digest-Manifest: 2fJE5xTfsbFT0pUPnFGySb2M09A=
+
+Name: config.sh
+SHA1-Digest-Manifest: 9Wn5YHF9kGpHQV7yo3cfVrFVFlQ=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: TOn/zXTfuf86lkAJLKXrKctujsY=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: SyX3X/PeDY9ntN8RXeBKc888YZg=
+
+Name: system/fonts/NotoSansMalayalam-Bold.ttf
+SHA1-Digest-Manifest: vnk39E8VPYBGGTnRN2q2ceznerc=
+
